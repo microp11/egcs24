@@ -1,5 +1,12 @@
 # egcs24 updates
 
+#### 10:40pm ADT, March 24 2022
+
+>uth:vc0 api:vc41 ui:vc62  
+>Fixed Issues #1 and #2
+>There is is still doubt on the bit inverter code. Either the packet decoder or the frame decoder might have a problem still.
+>The UI auto-refreshes incomplete Rx messages.
+>Relaxed the throttling a bit. 
 
 #### 12pm ADT, March 19 2022
 
